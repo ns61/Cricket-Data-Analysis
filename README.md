@@ -55,5 +55,4 @@ Here are a few applications for this project:
 For any questions or further information, please contact:
 
 - Email: sureshnandan8@gmail.com
-- GitHub: [yourusername](https://github.com/yourusername)
 
