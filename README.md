@@ -1,0 +1,2 @@
+# Cricket Data Analysis
+ This project leverages machine learning to provide in-depth analysis of cricket player performance and strategic recommendations. It offers tools for admins to manage user credentials and features for users to analyze team performances, lucky venues, toss impacts, and identify top players. Ideal for teams and analysts looking to enhance decision-making with data-driven insights.
